@@ -1,0 +1,21 @@
+{
+  "name": "rasofiagames.racastedevents",
+  "displayName": "RaCastedEvents",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "RaCastedEvents is a way of optimizing mass event sending where the data of the event is casted by the ones listening. Here the casting occurs once and then it is passed to the listeners. Perfect for global events where many observers try to base behaviour on the type passed to the global event.",
+  "keywords": [
+    "Events",
+    "Actions",
+    "Observer",
+    "Casting",
+    "Optimization",
+    "Delegates",
+    "Generic",
+    "Callbacks"
+  ],
+  "author": {
+    "name": "Rasofia Games"
+  },
+  "type": "tool"
+}
